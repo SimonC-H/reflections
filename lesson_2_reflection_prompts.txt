@@ -13,8 +13,16 @@ Working directory is where the working files are stored. The staging area is mea
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By using the Staging area one can double check that the changes are correct before commiting them to the repository using 
+git diff to compare working directory and staging area
+git diff --staged to compare staging area with latest commit
+get diff commit1 commit2 used to compare two commits.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+If one wanted to create a variation  or try out a new feature without affecting the original code which would remain unchanged.
 
 How do the diagrams help you visualize the branch structure?
 
