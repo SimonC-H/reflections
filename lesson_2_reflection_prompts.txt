@@ -31,5 +31,8 @@ Using a simple flow diagram structure one can quickly and easily see the parent 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It combines all the changes on both branches and the merge commit then becomes the head of the combined branch.
+The labels of the combined branches can then be removed as the new merge commit will be the parent of the combined branches.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
