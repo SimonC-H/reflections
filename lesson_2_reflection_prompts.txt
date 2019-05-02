@@ -26,6 +26,8 @@ If one wanted to create a variation  or try out a new feature without affecting 
 
 How do the diagrams help you visualize the branch structure?
 
+Using a simple flow diagram structure one can quickly and easily see the parent and child relationships of commits and see how each branch relates to the master branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
