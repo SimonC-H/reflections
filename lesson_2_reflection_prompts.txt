@@ -36,3 +36,5 @@ The labels of the combined branches can then be removed as the new merge commit 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Without considerable advances with machine learning Git cannot ascertain which changes should be kept wnd/or are the correct changes. It simply highlights where there are differences for the users to resolve. If Git could resolve changes automatically the code could be come a combination of code that may not compile or run. Only the contributers who wrote the code can resolve the conflicts efficiently.
