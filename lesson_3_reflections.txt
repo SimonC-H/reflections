@@ -34,4 +34,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Working on a separate branch enables more than one personto collaborate on a solution without affecting the master development code. Ensuring the existing validated code is not broken. Enables collaboration and various solutions to be worked up, tested and validated before merging into the final code. Promotes more adventurous and robust solutions. Especially useful on large complex projects.
+
+    With small simple projects or a single user, working with just a master branch may be more suitable as everything is easier to manage control and has a more linear approach.
